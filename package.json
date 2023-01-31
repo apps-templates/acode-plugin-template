@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "Template for Acode plugin",
   "main": "dist/main.js",
-  "repository": "https://github.com/deadlyjack/acode-plugin.git",
+  "repository": "https://github.com/apps-templates/acode-plugin-template.git",
   "author": "noely-gangello <noely.gangello@gmail.com>",
   "license": "MIT",
   "dependencies": {
